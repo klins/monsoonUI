@@ -1,4 +1,4 @@
-…or create a new repository on the command line
+README for monsoonUI
 echo "# monsoonServer" >> README.md
 git init
 git add README.md
