@@ -1,0 +1,29 @@
+{"users":
+  [{
+    "id": 1,
+    "metadata": {
+      "genre" : "peace",
+      "source" : "rains"
+      },
+    "message": "These words like due drops...",
+    "authour": "noone"
+  },
+  {
+    "id": 2,
+    "metadata": {
+      "genre" : "peace",
+      "source" : "rains"
+      },
+    "message": "I have okayed life, have you?...",
+    "authour": "noone"
+  },
+  {
+    "id": 3,
+    "metadata": {
+      "genre" : "peace",
+      "source" : "rains"
+      },
+    "message": "It seems the water is quite thirsty...",
+    "authour": "noone"
+  }
+]}
